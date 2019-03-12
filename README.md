@@ -1,4 +1,4 @@
-# # PREDICT (Time-predictable Flight Control)
+# PREDICT (Time-predictable Flight Control)
 
 PREDICT, Time-predictable Flight Control, is a fly-by-wire flight control system based on T-CREST architecture.
 The system is connected to X-Plane 11, where you can perform experiemnts on differnet aircrafts with the flight control system. 
